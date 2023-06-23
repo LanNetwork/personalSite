@@ -1,3 +1,4 @@
 [homeInfoParams]
 	Title = "Ian's blog"
 	Content = 'Collection of projects and information about Ian!'
+	defaultTheme = "light"
