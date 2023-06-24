@@ -63,8 +63,6 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
-      - name: Set up CNAME
-          run: echo ianmcgeoy.com > ./public/CNAME
 
   # Deployment job
   deploy:
