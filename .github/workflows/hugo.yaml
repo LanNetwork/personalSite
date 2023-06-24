@@ -64,7 +64,7 @@ jobs:
         with:
           path: ./public
       - name: Set up CNAME
-          run: echo ianmcgeoy.com > public/CNAME
+          run: echo ianmcgeoy.com > ./public/CNAME
 
   # Deployment job
   deploy:
