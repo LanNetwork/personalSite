@@ -6,3 +6,7 @@ draft: false
 This is the **bold** text, and this is the *emphasized* text.
 
 This is for testing purposes!
+Here is a picture of me:
+![this is alt text](/images/stokey%20square.png)
+
+And this is bottom text
