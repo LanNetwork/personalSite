@@ -7,7 +7,6 @@ This is the **bold** text, and this is the *emphasized* text.
 
 This is for testing purposes!
 Here is a picture of me:
-![image](./stokey_square.png)
-This doesn't work. I need to add shortcodes for img insertion. Does standard markdown not work?
+{{< img "stokey_square.png" >}}
 
 And this is bottom text
