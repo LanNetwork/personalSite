@@ -1,4 +1,13 @@
 [homeInfoParams]
 	Title = "Ian's blog"
-	Content = 'Collection of projects and information about Ian!'
-	defaultTheme = "light"
+	Content = "Portfolio of my projects, links to my socials, and personal blog"
+	defaultTheme = 'light'
+	theme = 'light'
+
+[[socialIcons]]
+	name = "GitHub"
+	url = "https://github.com/LanNetwork"
+
+[[socialIcons]]
+	name = "YouTube"
+	url = "https://www.youtube.com/@LanNetwork"
