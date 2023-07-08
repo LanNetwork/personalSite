@@ -6,33 +6,25 @@
     <description>Recent content in Posts on Ian McGeoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2023 15:48:21 -0700</lastBuildDate><atom:link href="https://ianmcgeoy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 17:18:09 -0700</lastBuildDate><atom:link href="https://ianmcgeoy.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Third Post</title>
-      <link>https://ianmcgeoy.com/posts/third-post/</link>
-      <pubDate>Fri, 23 Jun 2023 15:48:21 -0700</pubDate>
+      <title>Obsidian</title>
+      <link>https://ianmcgeoy.com/posts/obsidian_post/</link>
+      <pubDate>Fri, 07 Jul 2023 17:18:09 -0700</pubDate>
       
-      <guid>https://ianmcgeoy.com/posts/third-post/</guid>
-      <description>This is a header This is to test if the github action works!</description>
+      <guid>https://ianmcgeoy.com/posts/obsidian_post/</guid>
+      <description>This post is going to chronicle how I am switching from a disorganized note taking method which consists of Trello, Google Keep, and random paper notes - to a unified note taking method. From now on, all of my information storage needs will be filled by the application Obsidian. I already made a few small notes, but mostly to test out the markdown formatting and graph function. Then I got the idea to make a map of all the people I know.</description>
     </item>
     
     <item>
-      <title>Second Post</title>
-      <link>https://ianmcgeoy.com/posts/second-post/</link>
-      <pubDate>Fri, 23 Jun 2023 14:45:34 -0700</pubDate>
-      
-      <guid>https://ianmcgeoy.com/posts/second-post/</guid>
-      <description>This is the post that is secondary!</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://ianmcgeoy.com/posts/my-first-post/</link>
+      <title>Making personal website with static site generator</title>
+      <link>https://ianmcgeoy.com/posts/first_post/</link>
       <pubDate>Thu, 22 Jun 2023 18:36:47 -0700</pubDate>
       
-      <guid>https://ianmcgeoy.com/posts/my-first-post/</guid>
-      <description>This is the bold text, and this is the emphasized text.
-This is for testing purposes!</description>
+      <guid>https://ianmcgeoy.com/posts/first_post/</guid>
+      <description>Here is a picture of me: And this is my website!
+In this first post, I will discuss how I generated this website using hugo to create this website, and some of the challenges I faced. I am not primarily a web developer, so it was a bit confusing to work with HTML and shortcodes and such.
+For now however, I am too tired. I am going to bed, and working on this tomorrow.</description>
     </item>
     
   </channel>
