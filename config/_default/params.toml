@@ -3,6 +3,7 @@
 	Content = "Portfolio of my projects, links to my socials, and personal blog"
 	defaultTheme = 'light'
 	theme = 'light'
+	social = true
 
 [[socialIcons]]
 	name = "GitHub"
