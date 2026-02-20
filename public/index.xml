@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ian McGeoy</title>
-    <link>https://ianmcgeoy.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ian McGeoy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ianmcgeoy.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test post!</title>
-      <link>https://ianmcgeoy.com/posts/test_post/</link>
+      <link>http://localhost:1313/posts/test_post/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ianmcgeoy.com/posts/test_post/</guid>
+      <guid>http://localhost:1313/posts/test_post/</guid>
       <description>&lt;p&gt;This is a test post! Did I update hugo and papermod correctly? I hope so!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obsidian</title>
-      <link>https://ianmcgeoy.com/posts/obsidian_post/</link>
+      <link>http://localhost:1313/posts/obsidian_post/</link>
       <pubDate>Fri, 07 Jul 2023 17:18:09 -0700</pubDate>
-      <guid>https://ianmcgeoy.com/posts/obsidian_post/</guid>
-      <description>&lt;p&gt;This post is going to chronicle how I am switching from a disorganized note taking method which consists of Trello, Google Keep, and random paper notes - to a unified note taking method. From now on, all of my information storage needs will be filled by the application Obsidian. I already made a few small notes, but mostly to test out the markdown formatting and graph function.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;https://ianmcgeoy.com/posts/obsidian_post/first_vault%20graph.png&#34; width=&#34;1029&#34; alt=&#34;&#34;&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Then I got the idea to make a map of all the people I know. I been keeping little notes on people for a while, mostly to remember names if I was meeting a bunch of people at once. I did this using Google Drive. I liked the idea of a searchable database of names and information about all the people I know. I have filled out a couple of people like my brother, my mom, and a couple others.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;https://ianmcgeoy.com/posts/obsidian_post/family%20graph.png&#34; width=&#34;1083&#34; alt=&#34;&#34;&gt;&#xA;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/obsidian_post/</guid>
+      <description>&lt;p&gt;This post is going to chronicle how I am switching from a disorganized note taking method which consists of Trello, Google Keep, and random paper notes - to a unified note taking method. From now on, all of my information storage needs will be filled by the application Obsidian. I already made a few small notes, but mostly to test out the markdown formatting and graph function.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/posts/obsidian_post/first_vault%20graph.png&#34; width=&#34;1029&#34; alt=&#34;&#34;&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Then I got the idea to make a map of all the people I know. I been keeping little notes on people for a while, mostly to remember names if I was meeting a bunch of people at once. I did this using Google Drive. I liked the idea of a searchable database of names and information about all the people I know. I have filled out a couple of people like my brother, my mom, and a couple others.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/posts/obsidian_post/family%20graph.png&#34; width=&#34;1083&#34; alt=&#34;&#34;&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Making personal website with static site generator</title>
-      <link>https://ianmcgeoy.com/posts/first_post/</link>
+      <link>http://localhost:1313/posts/first_post/</link>
       <pubDate>Thu, 22 Jun 2023 18:36:47 -0700</pubDate>
-      <guid>https://ianmcgeoy.com/posts/first_post/</guid>
-      <description>&lt;p&gt;Here is a picture of me:&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;https://ianmcgeoy.com/posts/first_post/stokey_square.png&#34; width=&#34;956&#34; alt=&#34;&#34;&gt;&#xA;&#xA;And this is my website!&lt;/p&gt;&#xA;&lt;p&gt;In this first post, I will discuss how I generated this website using &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; to create this website, and some of the challenges I faced. I am not primarily a web developer, so it was a bit confusing to work with HTML and shortcodes and such.&lt;/p&gt;&#xA;&lt;p&gt;For now however, I am too tired. I am going to bed, and working on this tomorrow. Here&amp;rsquo;s a picture of a gnome:&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;https://ianmcgeoy.com/posts/first_post/gnome%20cropped.png&#34; width=&#34;386&#34; alt=&#34;&#34;&gt;&#xA;&#xA;Goodnight!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/first_post/</guid>
+      <description>&lt;p&gt;Here is a picture of me:&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/posts/first_post/stokey_square.png&#34; width=&#34;956&#34; alt=&#34;&#34;&gt;&#xA;&#xA;And this is my website!&lt;/p&gt;&#xA;&lt;p&gt;In this first post, I will discuss how I generated this website using &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; to create this website, and some of the challenges I faced. I am not primarily a web developer, so it was a bit confusing to work with HTML and shortcodes and such.&lt;/p&gt;&#xA;&lt;p&gt;For now however, I am too tired. I am going to bed, and working on this tomorrow. Here&amp;rsquo;s a picture of a gnome:&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/posts/first_post/gnome%20cropped.png&#34; width=&#34;386&#34; alt=&#34;&#34;&gt;&#xA;&#xA;Goodnight!&lt;/p&gt;</description>
     </item>
     <item>
       <title>traveler</title>
-      <link>https://ianmcgeoy.com/traveler/</link>
+      <link>http://localhost:1313/traveler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ianmcgeoy.com/traveler/</guid>
-      <description></description>
+      <guid>http://localhost:1313/traveler/</guid>
+      <description>&lt;p&gt;[https://drive.google.com/drive/folders/1Ehqo8qesGt2XJZJlLCOO89qzeI5bFHx5?usp=sharing](traveler folder)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
